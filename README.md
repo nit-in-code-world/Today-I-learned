@@ -18,4 +18,4 @@
 * [Free Memory](Linux/RAM_Memory.md)
 
 ### Keyboard Shortcuts
-* [Shortcuts](Keyboard Shortcuts/shortcuts.md)
+* [Shortcuts](Keyboard_Shortcuts/shortcuts.md)
