@@ -8,7 +8,7 @@
 
 * [Shell Scripting](#shell_scripting)
 * [Linux](#Linux)
-
+* [Keyboard Shortcuts](#Keyboard Shortcuts)
 
 ### Shell Scripting
 
@@ -16,3 +16,5 @@
 
 ### Linux
 * [Free Memory](Linux/RAM_Memory.md)
+
+### Keyboard Shortcuts
